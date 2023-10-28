@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soundarya-ms3&show_icons=true&locale=en" alt="soundarya-ms3" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soundarya-ms3&" alt="soundarya-ms3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soundarya-ms3&theme=neon-dark" alt="soundarya-ms3" /></p>
