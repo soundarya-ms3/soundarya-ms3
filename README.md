@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundarya-ms3&label=Profile%20views&color=0e75b6&style=flat" alt="soundarya-ms3" /> </p>
 
-- 🔭 I’m currently working on **React,Node,MongoDB,Express**
+- 🔭 I’m currently working on **React,Next,Node,MongoDB,Express**
 
 - 👯 I’m looking to collaborate on **MERNStack**
 
